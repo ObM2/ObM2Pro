@@ -1,0 +1,129 @@
+**15/05/2022 V.2.1.0 Pro**
+- Risolto Bug Elimina Configurazione.
+- Aggiunti Blocchi Plugin GenerateBytes,  Meganz, OAuthChallenge, RunProcess, OAuthVerifier,RecaptchaV3.
+- Aggiunta Animazione Icona Button Check Proxy.
+- Corretto Layout Settings General.
+- Corretto Layout Settings Themes.
+- Aggiunta Sottolineatura Selezione  Sottomenu'.
+- Nuovi Buttons Menu' principale.
+- Nuovo stile CheckBox
+- Nuovo Stile Text Box.
+- Aggiunti nuovi dati in Config Manager : colonna "Blocks"(blocchi presenti in configurazione), Colonna "Wordlist" (Wordlists Ammesse),  Colonna "Info" (informazioni Aggiuntive ).
+- Aggiunti comandi Esporta Dati di configurazione e Copia Dati di configurazione nel menu' contestuale in ConfigManager.
+_______________________________
+**01/05/2022 V. 2.0.9 Pro**
+- Aumentato livello di personalizzazione dei colori
+- Nuovi Controlli Checkbox
+- Nuova pagina Suoni
+- Nuovo Controllo  Proxy ON/OFF nella pagina Runner
+- Nuovo Custom Message Box 
+- Aggiunto Custom Message Box di avvertimento
+- Testo animato di benvenuto
+- Testo Animato Your Name (Slogan)
+- Nuova barra Menu' Verticale
+- Nuove icone Material Design Telegram, Screenshot, Log
+- Nuovo controllo Check proxy
+- Conteggio Download Versione da GitHub
+- Rivisitato layout  e colori dello Stacker
+- Aggiunto bordo Esterno Main Window
+- Nuovo Layout Config General
+- Nuova Loading Window
+- Nuova animazione Di attesa Caricamento
+_______________________________
+23/04/2022 V. 2.0.8 Pro
+Aggiunto comando "sendToDebugger" in HitDb
+Aggiunto combobox per la selezione del Targhet in Parse Block
+Aggiunto Resize Window Logger in the Page Stacker
+Nuovo stile della Title Bar
+Aggiunto logo Image Default
+Aggiunto Background Image Default
+Aggiunto Settings Themes, Select Foreground Border
+Aggiunto Settings Themes, Select Background Main Menu'
+Aggiunto Settings Themes, Select Foreground Title Bar
+Aggiunto Settings Themes, Select Background Title Bar
+Aggiunto Settings Themes, "Your Name" personalizza il tuo Slogan sulla Title Bar
+Aggiunto nuovo file Environment
+_________________________________
+**05/03/2022** V. 2.0.7 Pro
+- Fix allineamento buttons block Request x tema Metro
+- Scala Bots up to 500 Runner
+- Fix buttons Tema metro
+- Restayling del testo finestra del Log Runner
+- Icone dei menu' contestuali settate in alta risoluzione.
+- Aggiunto Button Update al menu' principale
+- Compilazione in modalità "Applicazione con attendibilità totale".
+__________________________________
+**02/03/2022 V.2.0.6 Pro**
+- Aggiunto Button "ADD Config" alla finestra di dialogo "Seleziona Config" del Runner.
+- Aggiunte opzioni Copia , incolla Undo Al Blocco REQUEST su indirizzo, Header, E Cookies.
+- Aggiunti Buttons "USER ENC" e "PASS ENC" (funzione URLEconde) nella finestra stacker  sezione Loliscript Code.
+- Modificati i links dei proxy ITA in proxy manager.
+- Modificati Links Cloud, Donazioni.
+- Aggiunto Button Richiesta Assistenza a Indirizzo eMail.
+- Risolto problema del colore dei testi del RadioButton nel blocco Parse.
+- Risolto problema della funzione Apri in notepad , menù contestuale Log e Loliscript.
+- Aggiunto menù contestale in LoliscriptCode Box.
+- Aggiunte opzioni di  Copia , incolla, Clear, Elimina, Seleziona Tutto e Apri in notepad nella finestra Loliscriptcode.
+- Modificati colori dei Blocchi della finestra di dialogo AddBlock
+__________________________________
+**06/02/2022 V.2.0.5 Pro**
+- Risolto problema salvataggio impostazioni temi
+- Aggiunto button "Add Config" rescan automatico
+- Adattamento dimensioni Buttons x Tema "OldStyle" e "DARK"
+__________________________________
+**17/01/2022 V.2.0.4 Pro**
+- Aggiunta Gestione Suoni
+- Modifica Suono click con gestione file esterni
+- Modifica Suono Onload con gestione file esterni
+- Modifica Suono On hit con gestione file esterni
+- Modifica Suono On Reload con gestione file esterni
+- Aggiunto CheckBox Save Hits on File in Runner
+- Aggiunta Sezione Requirements
+- Aggiunto Tema Areo
+- Aggiunto Tema MetroLight
+- Aggiunto Tema Metro dark Old Style
+- Gestione Cambio Temi In RunTime
+- Modifica stile Dialog AddBloks
+- Risolto Bug Funzione Compilatore
+- Aggiunti Buttons Scrape Proxy ITA
+- Aggiunto Button Menù Open Main Folder
+- Aggiunto Text box Nome Servizio Proxy
+- Altri Fix Bugs
+___________________________________
+**17/01/2022 V.2.0.3 Pro**
+- Aggiunta Estensione file OBM
+- Implementate Gif Animate
+- Aggiunto spazio Nomi Contributori
+- Modificata icona Programma
+- Aggiunto Button Salva Configurazione In Stacker
+- Aggiunto Button Clear Stacker
+- Aggiunto Button Converti OBM in LOLI
+- Altri Fix Bugs
+___________________________________
+**04/01/2022** V.2.0.2 Pro
+-Aggiunto nuovo link Cloud Mega
+-Aggiunto nuovo link Donazioni
+-Aggiunte Nuove icone Blocco Keycheck
+-Aggiunta Animazione icone del Menù principale
+-Bug Fix
+___________________________________
+13/12/2021 V.2.0.1 Pro
+-Aggiunta sezione Scrape Proxy
+-Aggiunto Button Cartella WordLists
+-Aggiunta Funzione Converti Configs
+.anom To Loli, .area51 To Loli, .svb To Loli
+-Aggiunta Opzione del menu' contestuale in Config Manager "Elimina Config"
+-Aggiunta Opzione In Stacker "Disable All" Blocks
+-Aggiunta Risposta "Custom msg box" al tasto Salva.
+-Miglioramenti grafica Runner Manager
+-miglioramenti grafica icone dei Menu' contestuali
+___________________________________
+07/12/2021 V.2.0.0 Pro
+-Modifiche del tema
+-Aggiunte Varie funzionalità .
+-Aggiunta pagina Check Update
+-Aggiunta pagina Ringraziamenti
+-Salvataggio Wordlists
+-Salvataggio Stato Job alla chiusura.
+-Aggiunto Link Cloud Mega Di tutte le Release
+___________________________________

@@ -1,0 +1,85 @@
+**27/02/22** V.1.0.7
+-Corretti link Mega Area51 page
+-Corretto link Changelog
+-risolto bug blocco telegram
+______________________________________
+**26/11/21** V.1.0.6 
+-Aggiunto menu' contestuale WordlistManager
+(Aggiungi,Seleziona,Apri Percorso, Apri Cartella Wordlist,Elimina 
+selezionato,Elimina Tutto.)
+-Aggiunto menu' contestuale ConfigManager
+(Seleziona tutto,Edita Config, Apri percorso)
+-Aggiunto menu' contestuale ProxyManager
+(Seleziona Tutto, Elimina Tutto)
+-Aggiunte Icone ai menu' contestuali delle varie pagine.
+-Implementata Cartella principale delle Wordlist
+(copia in automatico tutte le wordlist aggiunte al DB in una cartella 
+specifica "Wordlist" nella radice del programma)
+-Aggiunto Pulsante Apri Cartella in WordlistManager
+-Eliminato quadrato bianco dal Running.(eliminata scrollbar orizzontale)
+-Aggiunta opzione Copia nel menu' Contestuale del Debugger.
+-Aggiunta opzione Apri in NotePad nel menu' Contestuale del Debugger.
+-Aggiunta opzione Seleziona Tutto Nel menu' Contestuale del Debugger.
+-Aggiunte icone alle voci dello Stacker
+-Modicati Colori dei Blocchi Stacker(per toni accesi)
+-Risolto Bug grafico delle ComboBox
+-Scala Bots Test Proxy portata a 500
+-Aggiunte le descrizioni di tutte le funzioni in Block Function in Italiano
+-Modificata Barra progresso in Runner 
+-Nuove icone Pagina Area51 
+-Tradotta Wordlist page
+-Tradotta Hits page DB
+______________________________________
+**12/11/21** V.1.0.5
+-Aggiunta estensione .cyb
+-Aggiunto crea cartella  in blocco utility
+-Modifica layout text box
+-Modifica stile MainWindow
+-Tradotte risposte Debugger
+-Nuovo stile Bottoni
+-Aggiunte funzioni in utility Copy e Move  File
+-Aggiunta Icona Telegram In MainWindow
+_____________________________________
+01/11/21 V.1.0.4
+-Aggiunto Nuovo Tema
+-Eliminata Chiamata alla Repository "Anomaly" GitHub
+-Aggiunta Immagine di Sfondo in Percorso Relativo Portatile.
+-Aggiunte Android ICON
+-Nuovo Style e colori AddBlok
+-Angoli smussati Elementi 
+______________________________________
+
+16/10/21 V.1.0.3
+-Aggiunto Telegram Bot in block utility 
+-Aggiunto Folder in block Utility
+-Aggiunto Copy Capture Only
+______________________________________
+
+14/10/21 V.1.0.2
+-Risolto bug blocco Request
+-Corretti errori nei link github
+-tradotte ulteriori sezioni.
+-Corretti link Pagina Area51
+_____________________________________
+    
+08/10/21 V.1.0.1
+-Tradotte altre sezioni Settings, Rurilib e Blocks,
+-Aggiunta Finestra Changelog,
+-Aggiunto numero Versione,
+-Aggiunto Link Github per il Confronto della vesione in uso,
+-Possibilità di ricevere l'ultima vesione da link incorporato.
+-Nuovo Disegno Icona programma.
+______________________________________
+    
+18/09/21 V.1.0.0
+-CODICE DI BASE ANOMALY
+-TRADOTTO IN ITALIANO
+-NUOVO STILE ICONE
+-NUOVO STILE FINESTRE E PULSANTI
+-AGGIUNTE RISPOSTE AL SALVATAGGIO DELLE IMPOSTAZIONI
+-AGGIUNTE RISPOSTE AL SALVATAGGIO DELLE CONFIGURAZIONI
+-AGGIUNTE LE PROPRIETÀ PER LA LETTURA DI FILE .ANOM, .SVB, .LOLI
+-AGGIUNTA NUOVA ESTENSIONE DI FILE CONFIG.: .AREA51
+-ELEVATI BOTS RUNNER FINO A 400.
+-CODICE ESTREMAMENTE PULITO E VELOCE, NON CONTENENTE SOFTWARE DANNOSO!!!
+
