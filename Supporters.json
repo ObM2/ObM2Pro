@@ -1,13 +1,25 @@
 [  
   {
-    "Logo":"https://i.ibb.co/sjT3w5n/area51-500.jpg",
-    "Address":"https://t.me/welcometofavelas",
-    "Name":"AreA51CreW",
+    "Logo":"https://i.ibb.co/745NkGs/channel-1.png",
+    "Address":"https://t.me/technicalsupportone",
+    "Name":"Technical Support 1",
+    "Color":"#ff7961"
+  },
+   {
+    "Logo":"https://i.ibb.co/SxLr3ht/area51256.png",
+    "Address":"https://t.me/technicalsupporttwo",
+    "Name":"Technical Support 2",
+    "Color":"#ff7961"
+  },
+   {
+    "Logo":"https://i.ibb.co/JFT6yPw/Channel-3.png",
+    "Address":"https://t.me/technicalsupportthree",
+    "Name":"Technical Support 3",
     "Color":"#ff7961"
   },
   {
     "Logo":"https://i.postimg.cc/qRH8cL2X/crazy-dazn.gif",
-    "Address":"https://amw0la.usr.crazygold.net/login.php",
+    "Address":"https://t.me/gold_2024",
     "Name":"CrazyDazn",
     "Color":"#ff7961"
   },
