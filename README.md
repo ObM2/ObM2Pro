@@ -12,4 +12,4 @@ __________________________________
 
 [Here](https://obm2.github.io/obm2/) you can find the complete documentation for usage, config making and the RuriLib API.
 
-The OpenBullet API was released. It can be used to host configs remotely on your server and have OpenBullet download them upon Rescan. It's very useful to always have updated configs between different computers or people. You can learn more about it [Here]([[https://openbullet.github.io/ob1/remote.html].
+The OpenBullet API was released. It can be used to host configs remotely on your server and have OpenBullet download them upon Rescan. It's very useful to always have updated configs between different computers or people. You can learn more about it [Here](https://obm2.github.io/obm2/)
