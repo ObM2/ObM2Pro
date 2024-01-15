@@ -1,0 +1,11 @@
+[
+  {
+    "Image":"https://i.imgur.com/DwE0OYE.jpg",
+    "Address":"https://www.microsoft.com/en-us/download/details.aspx?id=48145",
+    "Name":"Fix CefSharp Error",
+    "Color":"#3cc779",
+    "ToolTip":"Download and install C++ 2015+ Redistributable x86/x64",
+    "Width":"380",
+    "Height":"240"
+  } 
+]
