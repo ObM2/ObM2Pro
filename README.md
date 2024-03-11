@@ -7,6 +7,7 @@ OpenBullet is a webtesting suite that allows to perform requests towards a targe
 IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is illegal! The developer will not be held responsible for improper use of this software.
 
 ![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20240311_013319.jpg)
+![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20240311_013941.jpg)
 
 __________________________________
 
