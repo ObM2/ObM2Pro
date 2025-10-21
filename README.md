@@ -8,10 +8,7 @@ IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not 
 
 ![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_043540.jpg)
 ![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_043608.jpg)
-![image[(https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_043638.jpg)
-![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_043945.jpg)
-![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_044028.jpg)
-![image](https://github.com/ObM2/ObM2Pro/blob/main/screenshot_20241210_045257.jpg)
+
 
 __________________________________
 
