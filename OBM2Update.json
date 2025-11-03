@@ -1,19 +1,18 @@
 {
   "Version": "3.0.4",
-  "Available": "True",
+  "Available": true,
   "Message": "",
-  "DownloadUrl": "",
+  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/v3.0.4/M2PRO304.7z",
   "ReleaseNotes": [
-    {
-      "Note": ""
-    },
+    { "Note": "Fix seeding ResponsesListView al primo runner" },
+    { "Note": "Check update con HttpClient + TLS 1.2" },
+    { "Note": "Ritocchi UI e virtualizzazione" }
   ],
   "Donate": [
     {
       "Address": "https://bit.ly/4ntR9Vc",
       "Link": "https://t.me/OBM2pro",
-      "Purchase": "https://t.me/BotConnectionBot"
-    },
-
+      "Purchase": "https://yourstore.example.com/m2pro"
+    }
   ]
 }
