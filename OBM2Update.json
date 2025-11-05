@@ -1,8 +1,8 @@
 {
-  "Version": "3.0.4",
+  "Version": "3.0.3",
   "Available": true,
   "Message": "",
-  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/V.3.0.4/M2PRO304.7z",
+  "DownloadUrl": "",
   "ReleaseNotes": [
     { "Note": "Fix seeding ResponsesListView al primo runner" },
     { "Note": "Check update con HttpClient + TLS 1.2" },
