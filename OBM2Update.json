@@ -1,12 +1,12 @@
 {
-  "Version": "3.0.3",
+  "Version": "3.1.0",
   "Available": true,
   "Message": "",
   "DownloadUrl": "",
   "ReleaseNotes": [
-    { "Note": "Fix seeding ResponsesListView al primo runner" },
-    { "Note": "Check update con HttpClient + TLS 1.2" },
-    { "Note": "Ritocchi UI e virtualizzazione" }
+    { "Note": "New but backwards compatible features" },
+    { "Note": "New blocks in Stacker, " },
+    { "Note": "Additional support in BlockRequest without breaking old scripts/config." }
   ],
   "Donate": [
     {
