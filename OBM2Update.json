@@ -2,7 +2,7 @@
   "Version": "3.1.0",
   "Available": true,
   "Message": "",
-  "DownloadUrl": "",
+  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/3.1.0/M2PRO310.7z",
   "ReleaseNotes": [
     { "Note": "New but backwards compatible features" },
     { "Note": "New blocks in Stacker, " },
