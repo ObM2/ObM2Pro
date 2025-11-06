@@ -1,12 +1,12 @@
 {
-  "Version": "3.1.0",
+  "Version": "3.1.1",
   "Available": true,
   "Message": "",
-  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/3.1.0/M2PRO310.7z",
+  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/3.1.1/M2PRO311.7z",
   "ReleaseNotes": [
-    { "Note": "New but backwards compatible features" },
-    { "Note": "New blocks in Stacker, " },
-    { "Note": "Additional support in BlockRequest without breaking old scripts/config." }
+    { "Note": "Fix bug Data Base Error on Save Hits" },
+    { "Note": "" },
+    { "Note": "" }
   ],
   "Donate": [
     {
