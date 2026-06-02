@@ -3,7 +3,7 @@
     "Image":"https://img.icons8.com/color/240/net-framework.png",
     "Address":"https://dotnet.microsoft.com/en-us/download/dotnet/8.0",
     "Name":".NET 8 Desktop Runtime (Required)",
-    "Color":"#512BD4",
+    "Color":"#3cc779",
     "ToolTip":"REQUIRED to start the app. Download and install the .NET Desktop Runtime 8.0 (Windows x64). Without it the application will not launch.",
     "Width":"380",
     "Height":"240"
