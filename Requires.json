@@ -1,11 +1,29 @@
 [
   {
-    "Image":"https://i.imgur.com/DwE0OYE.jpg",
-    "Address":"https://www.microsoft.com/en-us/download/details.aspx?id=48145",
-    "Name":"Fix CefSharp Error",
-    "Color":"#3cc779",
-    "ToolTip":"Download and install C++ 2015+ Redistributable x86/x64",
+    "Image":"https://img.icons8.com/color/240/net-framework.png",
+    "Address":"https://dotnet.microsoft.com/en-us/download/dotnet/8.0",
+    "Name":".NET 8 Desktop Runtime (Required)",
+    "Color":"#512BD4",
+    "ToolTip":"REQUIRED to start the app. Download and install the .NET Desktop Runtime 8.0 (Windows x64). Without it the application will not launch.",
     "Width":"380",
     "Height":"240"
-  } 
+  },
+  {
+    "Image":"https://img.icons8.com/color/240/visual-studio--v2.png",
+    "Address":"https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist",
+    "Name":"Visual C++ Redistributable",
+    "Color":"#3cc779",
+    "ToolTip":"Install Visual C++ Redistributable 2015-2022 (both x64 and x86). Needed by the native OpenCV and OCR (Tesseract) libraries.",
+    "Width":"380",
+    "Height":"240"
+  },
+  {
+    "Image":"https://cdn.jsdelivr.net/npm/@browser-logos/edge/edge.png",
+    "Address":"https://developer.microsoft.com/en-us/microsoft-edge/webview2/",
+    "Name":"WebView2 Runtime",
+    "Color":"#0E7FC1",
+    "ToolTip":"Required by the embedded browser. Already present on Windows 11 and most updated Windows 10 systems; install the Evergreen Runtime only if missing.",
+    "Width":"380",
+    "Height":"240"
+  }
 ]
