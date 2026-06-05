@@ -5,8 +5,9 @@ The Plugin System was released with version 1.2.0. You can find a sample Plugin 
 OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for scraping and parsing data, automated pentesting, unit testing through selenium and much more.
 
 IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is illegal! The developer will not be held responsible for improper use of this software.
+<img width="1150" height="750" alt="image" src="https://github.com/user-attachments/assets/82ea2387-8ff5-4014-8d7d-64c86f1b8bd0" />
 
-<img width="1056" height="750" alt="image" src="https://github.com/user-attachments/assets/1077b5bd-9bef-4128-8d5a-f0ca66ffa94d" />
+
 <img width="1056" height="750" alt="image" src="https://github.com/user-attachments/assets/ad5aa4c9-8278-4ae6-afc4-0ceb1848e64b" />
 <img width="1056" height="750" alt="image" src="https://github.com/user-attachments/assets/cc4dcf25-ed8c-41d2-8169-0e178100f068" />
 <img width="1056" height="750" alt="image" src="https://github.com/user-attachments/assets/b9960ccc-fa0f-4d67-8f51-8a81e33666db" />
