@@ -2,7 +2,7 @@
   "Version": "3.1.1",
   "Available": true,
   "Message": "",
-  "Sha256": "AC88352B6960EF5294CED2EFC02AB58F5B0CB4774768E5A6B2CFFD750E5E7EA3",
+  "Sha256": "447BF09AA2749725AFC701A12E426809536F3E210E5351A938EA9571226D51C0",
   "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/3.1.1/M2PRO311.7z",
   "ReleaseNotes": [
     { "Note": "Fix bug Data Base Error on Save Hits" },
