@@ -1,13 +1,11 @@
 {
-  "Version": "3.1.1",
+  "Version": "4.0.0",
   "Available": true,
-  "Message": "",
+  "Message": "M2 Pro 4.0.0 is available.",
+  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/latest",
   "Sha256": "3FA99C17211FBA9E54282A06E95BEC0CF1F25FABDD35B7211A70996A7E9D94E4",
-  "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/download/3.1.1/M2PRO311.7z",
   "ReleaseNotes": [
-    { "Note": "Fix bug Data Base Error on Save Hits" },
-    { "Note": "" },
-    { "Note": "" }
+    { "Note": "See the GitHub release for the full changelog." }
   ],
   "Donate": [
     {
