@@ -1,9 +1,9 @@
 {
-  "Version": "4.0.0",
+  "Version": "4.0.1",
   "Available": true,
-  "Message": "M2 Pro 4.0.0 is available.",
+  "Message": "M2 Pro 4.0.1 is available.",
   "DownloadUrl": "https://github.com/ObM2/ObM2Pro/releases/latest",
-  "Sha256": "3FA99C17211FBA9E54282A06E95BEC0CF1F25FABDD35B7211A70996A7E9D94E4",
+  "Sha256": "409C2140C7BEB7C8FC9B0812AA162544E0FED1BCE025DE4A27FC946B963BA6DF",
   "ReleaseNotes": [
     { "Note": "See the GitHub release for the full changelog." }
   ],
