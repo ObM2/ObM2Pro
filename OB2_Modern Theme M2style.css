@@ -1,0 +1,98 @@
+:root {
+    /* ── M2 Pro Theme — Violet Dark ── */
+
+    /* Foreground / Text */
+    --fg-primary:        #E0E0E0 !important;
+    --fg-light:          #FFFFFF !important;
+    --fg-inactive:       #4A4A58 !important;
+    --fg-inactive-light: #6B6B7A !important;
+
+    /* Background */
+    --bg-primary:        #0E0E12 !important;
+    --bg-secondary:      #17171C !important;
+    --bg-tertiary:       #2A2A35 !important;
+    --bg-accent:         #12121A !important;
+
+    /* Accent Violet */
+    --fg-accent:         #8B5CF6 !important;
+    --fg-accent-light:   #A78BFA !important;
+
+    /* State Colors */
+    --fg-good:           #22C55E !important;
+    --fg-good-dark:      #15532E !important;
+    --fg-bad:            #EF4444 !important;
+    --bg-bad:            rgba(239,68,68,0.15) !important;
+    --fg-custom:         #F59E0B !important;
+    --fg-tocheck:        #06B6D4 !important;
+    --fg-banned:         #A78BFA !important;
+    --fg-retry:          #F59E0B !important;
+    --fg-error:          #EF4444 !important;
+
+    /* Speciali */
+    --fg-variable:       #6D28D9 !important;
+    --fg-interpolated:   #15803D !important;
+    --bg-variable:       #1a1040 !important;
+    --bg-interpolated:   #0f2e1a !important;
+    --fg-gold:           #F59E0B !important;
+    --fg-silver:         #9CA3AF !important;
+    --fg-bronze:         #D97706 !important;
+
+    /* Chart Series */
+    --chart-series-1:    #8B5CF6 !important;
+    --chart-series-2:    #06B6D4 !important;
+    --chart-series-3:    #22C55E !important;
+    --chart-series-4:    #F59E0B !important;
+    --chart-series-5:    #EF4444 !important;
+}
+
+* {
+    font-family: 'Inter', 'Segoe UI', system-ui, sans-serif !important;
+}
+
+/* ============================================================
+   SIDEBAR — solo colori, nessun layout override
+   ============================================================ */
+
+.sidebar {
+    background: #17171C !important;
+    border-right: 1px solid #2A2A35 !important;
+}
+
+.menu-section-header {
+    color: #4A4A58 !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+}
+
+.menu-item {
+    color: #9CA3AF !important;
+    border-radius: 8px !important;
+    margin-left: 6px !important;
+    margin-right: 6px !important;
+    transition: background 0.15s, color 0.15s !important;
+}
+
+.menu-item:not(.selected):hover {
+    background: rgba(255,255,255,0.05) !important;
+    color: #E0E0E0 !important;
+}
+
+.menu-item.selected {
+    background: rgba(139,92,246,0.15) !important;
+    color: #A78BFA !important;
+}
+
+.sidebar-version {
+    color: #4A4A58 !important;
+}
+
+.sidebar-handle {
+    background: #2A2A35 !important;
+    border-color: #3A3A45 !important;
+    color: #9CA3AF !important;
+}
+.sidebar-handle:hover {
+    background: rgba(139,92,246,0.2) !important;
+    color: #A78BFA !important;
+}
